@@ -97,12 +97,12 @@ const Article = () => {
                     <div className="col-md-12">
                       <div className="contentSec">
                         <h1 className="heading">
-                          The Mercedes-Benz E-Class: First Among Cars And A
-                          Benchmark In Luxury
+                          Come home to Billionaire’s Row
                         </h1>
                         <p className="subheading">
-                          For Esquire India’s Auto Issue, we look at what
-                          defines aspiration on Indian roads today{" "}
+                          "For Esquire India’s Design Issue, we delve into how
+                          luxury architecture is reshaping skylines — and the
+                          way India dreams of living."
                         </p>
                         <div className="authorSec">
                           <span className="author">
@@ -124,35 +124,31 @@ const Article = () => {
                       <div className="content">
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            COCOONED IN THE COMFORT OF THE BACK SEAT of the{" "}
+                            Altamount Road has played host to corporate scions,
+                            powerful bureaucrats, some of the
                           </span>
                           <a
                             target="_blank"
                             rel="noopener noreferrer"
-                            href="https://www.esquireindia.co.in/tag/mercedes"
+                            href="#"
                           >
-                            <span>Mercedes</span>
+                            {/* <span>Mercedes</span> */}
                           </a>
                           <span>
-                            -Benz E-Class, wafting smoothly towards the airport,
-                            I find myself enveloped by the warm glow of the
-                            ambient lighting, immersed in the sheer indulgence
-                            that surrounds me. It’s in moments like these—quiet,
-                            uninterrupted—that one truly absorbs the brilliance
-                            of this machine.{" "}
+                            country's most influential families, and the largest
+                            gathering of international consulates, earning it
+                            the moniker of 'Billionaires' Row'.
                           </span>
                         </p>
                         <p style={{ textAlign: "left" }} />
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            As I glance around, soaking in the finely appointed
-                            cabin, I’m struck once again by just how
-                            awe-inspiring it is to sit in the back seat of an
-                            E-Class. It’s a sensation that never fades, no
-                            matter how many times I’ve experienced it. In India,
-                            owning a car bearing the iconic three-pointed star
-                            has long been seen as a symbol of success, prestige
-                            and aspiration.
+                            India’s finest address gets a new landmark At the
+                            highest point of Altamount Road, a new landmark
+                            rises where once stood Washington House. Lodha
+                            Altamount is a vision in glass, providing its
+                            influential residents absolute privacy from the
+                            public gaze while allowing unrestricted views.
                           </span>
                         </p>
                         <div>
@@ -176,7 +172,7 @@ const Article = () => {
                                   width: "100%",
                                   height: "auto",
                                 }}
-                                src="https://cdn.esquireindia.co.in/editor-images/2025-07-18T07%3A06%3A33.290Z-Inline1.jpg"
+                                src="https://www.lodhagroup.com/sites/default/files/projects/gallery/social-2_2_0.png"
                               />
                               <div className="photoBy">
                                 <span className="caption" />
@@ -187,46 +183,35 @@ const Article = () => {
                         </div>
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            Among all the models in the Mercedes-Benz lineup,
-                            the E-Class holds a special place in this narrative.
-                            It’s not just a car—it’s a milestone. Over the last
-                            30 years, more than 60,000 units of the E-Class have
-                            found homes across the country. While that number
-                            might not sound massive in broader automotive terms,
-                            it is quite extraordinary for a luxury model in a
-                            market that’s only recently embraced premium
-                            mobility at scale.{" "}
+                            Your private world With just one residence for every
+                            floor, Lodha Altamount offers the unbridled privacy
+                            of a villa in the sky. Every residence is wrapped in
+                            glass - UV - resistant, double-glazed, and tinted -
+                            cocooning you in a private world shielded from the
+                            public gaze.
                           </span>
                         </p>
                         <p style={{ textAlign: "left" }} />
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            The E-Class has consistently been Mercedes-Benz
-                            India’s best-seller and its success only surged
-                            further when the long wheelbase (LWB) variant was
-                            introduced in 2017—a configuration developed
-                            specifically for markets like India and China, where
-                            back-seat comfort reigns supreme. With this, the
-                            E-Class redefined luxury travel for the
-                            chauffeur-driven elite and widened its appeal to
-                            entrepreneurs and families alike. Now, in its latest
-                            avatar unveiled in October 2024, the E-Class raises
-                            the bar yet again.{" "}
+                            Masterpiece by Picasso The Pablo Picasso masterpiece
+                            ‘La Plage, Juan-les-Pins’ greets the residents at
+                            the entrance lobby at Lodha Altamount.
                           </span>
                         </p>
                         <p style={{ textAlign: "left" }} />
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            The newest generation is larger, smarter and more
-                            luxurious than ever. The highlight variant, the E
-                            450 4MATIC, combines power and panache. Its
-                            3.0-litre inline-six turbocharged petrol engine with
-                            mild-hybrid tech delivers a punchy 381 hp and 500 Nm
-                            of torque, ensuring that those who enjoy being
-                            behind the wheel aren’t left wanting.{" "}
+                            the unbridled privacy of a villa in the sky. Every
+                            residence is wrapped in glass - UV - resistant,
+                            double-glazed, and tinted - cocooning you in a
+                            private world shielded from the public gaze.India’s
+                            finest address gets a new landmark At the highest
+                            point of Altamount Road, a new landmark rises where
+                            once stood Washington House.
                           </span>
                         </p>
-                      <RealStateWidget1/>
+                        <RealStateWidget1 />
                         <div className="StoriesInfo_left_innercntr-full-width">
                           <div
                             className="related-post-container"
@@ -255,7 +240,7 @@ const Article = () => {
                                       decoding="async"
                                       data-nimg="fill"
                                       className="imgcover"
-                                      src="https://cdn.esquireindia.co.in/article/2025-07-11T08%3A53%3A24.450Z-Lead_09_TUNNEL_PROSP_FRONT_3-lead-vertical.jpg"
+                                      src="https://www.lodhagroup.com/sites/default/files/projects/gallery/social-5_2.png"
                                       style={{
                                         position: "absolute",
                                         height: "100%",
@@ -267,10 +252,11 @@ const Article = () => {
                                     />
                                   </div>
                                   <div className="related-post-card-content">
-                                    <strong>Cars &amp; Bikes</strong>
+                                    <strong>luxury Buildings</strong>
                                     <h3 className="card-title mb-0">
-                                      Lamborghini Temerario GT3 Is Lighter,
-                                      Faster And Destined For Racing
+                                      With just one residence for every floor,
+                                      Lodha Altamount offers the unbridled
+                                      privacy of a villa in the sky.
                                     </h3>
                                     <span className="author">
                                       {" "}
@@ -290,7 +276,7 @@ const Article = () => {
                                       decoding="async"
                                       data-nimg="fill"
                                       className="imgcover"
-                                      src="https://cdn.esquireindia.co.in/article/2025-04-13T09%3A06%3A46.689Z-Lead%20%2829%29.jpg"
+                                      src="https://www.lodhagroup.com/sites/default/files/projects/gallery/social-6_2.png"
                                       style={{
                                         position: "absolute",
                                         height: "100%",
@@ -302,9 +288,11 @@ const Article = () => {
                                     />
                                   </div>
                                   <div className="related-post-card-content">
-                                    <strong>Cars &amp; Bikes</strong>
+                                    <strong>luxury Buildings</strong>
                                     <h3 className="card-title mb-0">
-                                      6 Endurance Bikes To Lookout For In 2025
+                                      The Pablo Picasso masterpiece ‘La Plage,
+                                      Juan-les-Pins’ greets the residents at the
+                                      entrance lobby at Lodha Altamount.
                                     </h3>
                                     <span className="author">
                                       {" "}
@@ -318,30 +306,22 @@ const Article = () => {
                         </div>
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            It whips you to 100 in just 4.5 seconds. Paired with
-                            Mercedes’ 9G-TRONIC automatic transmission and
-                            4MATIC all-wheel drive, it offers a buttery smooth,
-                            refined but punchy drive. But of course, the back
-                            seat is where the E-Class LWB truly dazzles. The
-                            rear cabin is nothing short of a sanctuary. In the
-                            new generation, the seats recline up to 36 degrees,
-                            include extendable thigh support and come with “boss
-                            mode,” allowing the rear passenger to push the front
-                            seat forward with the touch of a button, fully
-                            stretching out in ultimate relaxation.{" "}
+                            Serenity By Mother Nature. 5-Star Services By Saint
+                            Amand. At Club Saint Amand, experience a level of
+                            service that goes beyond expectations, with
+                            personalized care and exquisite amenities offering a
+                            lifestyle of unparalleled indulgence.
                           </span>
                         </p>
                         <p style={{ textAlign: "left" }} />
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            Despite the rise of SUVs, the E-Class continues to
-                            embody timeless elegance. Its stately design,
-                            complete with a chrome-heavy grille, sleek LED DRLs
-                            and a flowing silhouette, commands attention
-                            wherever it goes. Arriving in an E-Class still
-                            elicits a head-turn, a held-open door and an almost
-                            ceremonial welcome from onlookers who’ve long dreamt
-                            of being in your seat.
+                            Anchored Majestically in Juhu Nestled on Juhu's
+                            golden mile, Lodha Avalon offers an iconic address
+                            with endless ocean views, unmatched privacy, and
+                            world-class comforts. Exclusive yet well-connected,
+                            it promises indulgence and hospitality that
+                            anticipates your every need.
                           </span>
                         </p>
                         <div>
@@ -357,13 +337,16 @@ const Article = () => {
                         <p style={{ textAlign: "left" }} />
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            As I lean back, fully reclined and insulated from
-                            the chaos outside, I’m reminded again why this car
-                            has endured. Few vehicles can blend tradition,
-                            innovation, and indulgence so effortlessly. The
-                            Mercedes-Benz E-Class isn’t just transportation.
-                            It’s an experience, a status symbol, and for many, a
-                            coveted car.
+                            Absolute Privacy, Just You and the Ocean With
+                            sweeping ocean vistas and a private sea-front, Lodha
+                            Avalon offers unparalleled tranquility and
+                            seclusion, creating a serene escape where luxury
+                            meets nature. Serenity By Mother Nature. 5-Star
+                            Services By Saint Amand. At Club Saint Amand,
+                            experience a level of service that goes beyond
+                            expectations, with personalized care and exquisite
+                            amenities offering a lifestyle of unparalleled
+                            indulgence.
                           </span>
                         </p>
                         <div>
@@ -390,20 +373,17 @@ const Article = () => {
                                   width: "100%",
                                   height: "auto",
                                 }}
-                                src="https://cdn.esquireindia.co.in/editor-images/2025-07-18T07%3A08%3A38.725Z-1Ferrari%20296%20GTB%20%C3%AF%C2%80%C2%A2%20GTS.jpg"
+                                src="https://www.lodhagroup.com/sites/default/files/projects/gallery/social-1_2_0.png"
                               />
                               <div className="photoBy">
                                 <span className="caption">
-                                  Ferrari 296 GTB / GTS{" "}
+                                  5-Star Services By Saint Amand.
                                 </span>
                                 <span className="courtesy" />
                               </div>
                             </div>
                           </div>
                         </div>
-                      
-                        
-                        
                       </div>
                     </div>
                   </div>

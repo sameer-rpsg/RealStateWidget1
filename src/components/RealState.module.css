@@ -6,6 +6,8 @@
   background-size: cover;
   margin-left: 0 !important;
   margin-right: 0 !important;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 .boxImgCntr {
   width: 100%;
@@ -35,7 +37,7 @@
 
 .boxContent {
   position: relative;
-  height: calc(100svh - 2rem);
+  height: calc(100svh - 4rem);
   width: 100%;
   z-index: 3;
   opacity: 0;
@@ -397,7 +399,7 @@
     z-index: 5;
   }
   .boxContent {
-    width: 25.5rem;
+    width: 30.5rem;
     height: calc(100svh - 4rem);
   }
   .header {

@@ -25,6 +25,7 @@
   bottom: 1rem;
   right: 1rem;
   left: 1rem;
+
   pointer-events: auto;
   z-index: 5;
   --size-x: 100%;
@@ -37,7 +38,7 @@
 
 .boxContent {
   position: relative;
-  height: calc(100svh - 4rem);
+  height: calc(100svh - 8rem);
   width: 100%;
   z-index: 3;
   opacity: 0;
@@ -387,7 +388,9 @@
 @media (min-width: 650px) {
   .box {
     bottom: 1rem;
-    left: auto;
+    /* left: auto; */
+    left:50%;
+    transform: translate(-50%, 0);
     right: 1rem;
     z-index: 8;
     position: absolute;
@@ -400,7 +403,7 @@
   }
   .boxContent {
     width: 30.5rem;
-    height: calc(100svh - 4rem);
+    height: calc(100svh - 8rem);
   }
   .header {
     padding-left: 1.5rem;
